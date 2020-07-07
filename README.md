@@ -47,7 +47,7 @@ Basic skills in computer and information science,
 allowing the continuation of studies in the second study
 cycle.
 ## Intended learning outcomes
-### Knowledge and understanding:
+### Knowledge and understanding
 Basic building blocks of programming languages data 
 type, variable, constant expression, operator, function,
 pointer, memory, arrays, files and object-oriented
